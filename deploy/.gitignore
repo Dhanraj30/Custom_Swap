@@ -1,0 +1,11 @@
+node_modules/
+.env.local
+coverage
+coverage.json
+typechain
+typechain-types
+.next/
+# Hardhat files
+cache
+artifact
+.env
